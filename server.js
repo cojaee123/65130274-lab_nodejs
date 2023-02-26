@@ -48,7 +48,7 @@ const products = [
   },
   {
     id: "6",
-    name: "MacMini",
+    name: "MacMini m2 128",
     category: "Apple",
     price: 17400,
     cover:
@@ -56,7 +56,7 @@ const products = [
   },
   {
     id: "7",
-    name: "MacMini M2",
+    name: "MacMini M2 512",
     category: "Apple",
     price: 27900,
     cover:
